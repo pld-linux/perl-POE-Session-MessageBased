@@ -30,7 +30,7 @@ It also exists as an example of a subclassed POE::Session, in case
 someone wants to create new callback or Session semantics.
 
 %description -l pl
-POE::Session::MessageBased istnieje g³ównie po to, by zastêpiæ
+POE::Session::MessageBased istnieje g³ównie po to, by zast±piæ
 @_[KERNEL itp.] obiektami komunikatów, które s± opakowaniem ró¿nych
 aspektów ka¿dego zdarzenia. Istnieje tak¿e jako przyk³ad podklasy
 POE::Session, na wypadek gdyby kto¶ chcia³ stworzyæ now± semantykê
