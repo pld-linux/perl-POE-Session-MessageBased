@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	POE
-%define	pnam	Session-MessageBased
+%define		pdir	POE
+%define		pnam	Session-MessageBased
 Summary:	POE::Session::MessageBased - a message-based (not @_ based) POE::Session
 Summary(pl):	POE::Session::MessageBased - oparte na komunikatach (nie @_) POE::Session
 Name:		perl-POE-Session-MessageBased
