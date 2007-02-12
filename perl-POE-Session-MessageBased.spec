@@ -6,7 +6,7 @@
 %define		pdir	POE
 %define		pnam	Session-MessageBased
 Summary:	POE::Session::MessageBased - a message-based (not @_ based) POE::Session
-Summary(pl):	POE::Session::MessageBased - oparte na komunikatach (nie @_) POE::Session
+Summary(pl.UTF-8):   POE::Session::MessageBased - oparte na komunikatach (nie @_) POE::Session
 Name:		perl-POE-Session-MessageBased
 Version:	0.01
 Release:	1
@@ -29,11 +29,11 @@ with message objects that encapsulate various aspects of each event.
 It also exists as an example of a subclassed POE::Session, in case
 someone wants to create new callback or Session semantics.
 
-%description -l pl
-POE::Session::MessageBased istnieje g³ównie po to, by zast±piæ
-@_[KERNEL itp.] obiektami komunikatów, które s± opakowaniem ró¿nych
-aspektów ka¿dego zdarzenia. Istnieje tak¿e jako przyk³ad podklasy
-POE::Session, na wypadek gdyby kto¶ chcia³ stworzyæ now± semantykê
+%description -l pl.UTF-8
+POE::Session::MessageBased istnieje gÅ‚Ã³wnie po to, by zastÄ…piÄ‡
+@_[KERNEL itp.] obiektami komunikatÃ³w, ktÃ³re sÄ… opakowaniem rÃ³Å¼nych
+aspektÃ³w kaÅ¼dego zdarzenia. Istnieje takÅ¼e jako przykÅ‚ad podklasy
+POE::Session, na wypadek gdyby ktoÅ› chciaÅ‚ stworzyÄ‡ nowÄ… semantykÄ™
 callbacka lub sesji.
 
 %prep
