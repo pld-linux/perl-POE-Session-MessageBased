@@ -6,7 +6,7 @@
 %define		pdir	POE
 %define		pnam	Session-MessageBased
 Summary:	POE::Session::MessageBased - a message-based (not @_ based) POE::Session
-Summary(pl.UTF-8):   POE::Session::MessageBased - oparte na komunikatach (nie @_) POE::Session
+Summary(pl.UTF-8):	POE::Session::MessageBased - oparte na komunikatach (nie @_) POE::Session
 Name:		perl-POE-Session-MessageBased
 Version:	0.01
 Release:	1
