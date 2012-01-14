@@ -8,13 +8,13 @@
 Summary:	POE::Session::MessageBased - a message-based (not @_ based) POE::Session
 Summary(pl.UTF-8):	POE::Session::MessageBased - oparte na komunikatach (nie @_) POE::Session
 Name:		perl-POE-Session-MessageBased
-Version:	0.110
+Version:	0.111
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	951c72a59fbdd30632a2c64fbccbc788
+# Source0-md5:	2f5ea8c09558656f5dac12112f0d8afc
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
